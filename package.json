@@ -1,0 +1,24 @@
+{
+  "name": "import-wp",
+  "version": "1.0.0",
+  "description": "Set of scripts to import and transfer old WP instance to new",
+  "main": "wp_import.js",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "wpapi": "^1.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bcheights/import-wp.git"
+  },
+  "author": "Branden Kim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bcheights/import-wp/issues"
+  },
+  "homepage": "https://github.com/bcheights/import-wp#readme"
+}
